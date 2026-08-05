@@ -15,6 +15,12 @@ I want to send people here from my social profiles.
 - Smooth hover animations on the link buttons
 - Google Font: Inter
 - Use green and blue gradients in light mode, purple and blue in dark mode. keep it nice and pretty.
+- center the text and icon of the link buttons
+
+## Profile Photo
+- Replace the circular placeholder with the image at `assets/profile.jpg`
+- Maintain the 120px circle size and existing styling (border, shadow, etc.)
+- Use object-fit: cover so the photo doesn't stretch
 
 ## Links
 Display these as stacked buttons, full-width within the card:
