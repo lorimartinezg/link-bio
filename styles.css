@@ -235,6 +235,12 @@ body::after {
   fill: currentColor;
 }
 
+.icon img {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+
 .footer {
   margin-top: 1.2rem;
   color: var(--text-secondary);

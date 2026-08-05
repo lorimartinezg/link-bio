@@ -16,6 +16,7 @@ I want to send people here from my social profiles.
 - Google Font: Inter
 - Use green and blue gradients in light mode, purple and blue in dark mode. keep it nice and pretty.
 - center the text and icon of the link buttons
+- Replace the SVG icon in the "Porfolio" button with the svg at 'assets/Figma-logo.svg'
 
 ## Profile Photo
 - Replace the circular placeholder with the image at `assets/profile.jpg`
